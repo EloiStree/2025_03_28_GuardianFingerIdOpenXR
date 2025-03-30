@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.guardiantoxr",                              
+  "displayName": "Guardian To Three Points XR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Guardian to triangle three points for xr devices.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_03_28_GuardianFingerIdOpenXR.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
